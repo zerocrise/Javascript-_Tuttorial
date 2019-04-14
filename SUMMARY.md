@@ -2,4 +2,5 @@
 
 * [Introduzione](README.md)
 * [Sintassi](sintassi.md)
+* [Variabili](variabili.md)
 
